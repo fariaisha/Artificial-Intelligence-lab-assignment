@@ -35,7 +35,4 @@ This repository contains implementations and explanations of different **AI Sear
 
 ---
 
-## 🚀 Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/ai-search-algorithms.git
+
